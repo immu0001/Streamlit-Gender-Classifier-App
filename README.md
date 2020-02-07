@@ -5,7 +5,8 @@ A simple Web created with streamlite (Python library) to classify gender based o
 
 # Requirements:
 * Streamlite
-'pip install streamlit'
+
+'`pip install streamlit'`
 
 
 # Installation
